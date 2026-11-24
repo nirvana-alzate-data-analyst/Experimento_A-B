@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 Este proyecto evalúa el impacto de una nueva versión de *landing page* (*Versión B*) sobre el comportamiento de compra de $40,000$ usuarios en una plataforma de e-commerce. A través de pruebas de hipótesis estadísticas (prueba $t$ de Welch, Z-test de proporciones y Chi-cuadrado $\chi^2$), el análisis determina si la nueva variante genera un incremento estadísticamente significativo en la tasa de conversión y en el gasto promedio por cliente.
@@ -140,5 +139,5 @@ jupyter notebook notebooks/ab_test_analysis.ipynb
 
 ## 👤 Autor y Licencia
 
-* **Desarrollado por:** Analista de Datos / Equipo de Marketing Digital
-* **Licencia:** Este proyecto se distribuye bajo la licencia [MIT](LICENSE). Puedes usarlo, modificarlo y distribuirlo libremente.
+* **Desarrollado por:** Estudiante Análisis de Datos /Bootcamp de tripleten
+
