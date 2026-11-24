@@ -72,7 +72,7 @@ ab-testing-landing-experiment/
 ├── datasets/
 │   └── landing_experiment.csv       # Dataset principal del experimento
 ├── notebooks/
-│   └── ab_test_analysis.ipynb       # Notebook ejecutable con análisis EDA y test de hipótesis
+│   └── S9 Version_Student_Proyecto_Landing_Experiment.ipynb       # Notebook ejecutable con análisis EDA y test de hipótesis
 ├── outputs/
 │   └── graphics/                    # Visualizaciones generadas para el informe
 ├── .gitignore                       # Filtros de exclusión para Git
